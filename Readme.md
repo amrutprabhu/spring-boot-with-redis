@@ -1,6 +1,6 @@
 # Spring Boot with Redis Hash and Document
 
-### Manually setting connection properties
+### Properties For setting connection manually
 ```shell
 spring.redis.host=localhost
 spring.redis.port=6379
